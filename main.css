@@ -1,0 +1,6 @@
+/* zielona linia */
+hr {
+    color: green;
+    margin-top: 600px;
+    height: .5px;
+}
